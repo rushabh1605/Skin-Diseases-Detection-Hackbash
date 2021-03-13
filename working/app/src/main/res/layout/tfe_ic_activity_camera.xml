@@ -43,9 +43,9 @@
             android:background="@color/tfe_semi_transparent">
 
             <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/tfl2_logo" />
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/abc" />
         </androidx.appcompat.widget.Toolbar>
 
     </RelativeLayout>

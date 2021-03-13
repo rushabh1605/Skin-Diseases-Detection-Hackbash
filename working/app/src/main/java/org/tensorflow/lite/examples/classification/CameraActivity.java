@@ -19,6 +19,7 @@ package org.tensorflow.lite.examples.classification;
 import android.Manifest;
 import android.app.Fragment;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.hardware.Camera;
 import android.hardware.camera2.CameraAccessException;
@@ -29,6 +30,7 @@ import android.media.Image;
 import android.media.Image.Plane;
 import android.media.ImageReader;
 import android.media.ImageReader.OnImageAvailableListener;
+import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
@@ -41,6 +43,7 @@ import android.view.View;
 import android.view.ViewTreeObserver;
 import android.view.WindowManager;
 import android.widget.AdapterView;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
@@ -98,6 +101,8 @@ public abstract class CameraActivity extends AppCompatActivity
 
   private Device device = Device.CPU;
   private int numThreads = -1;
+  private Button button1;
+
 
   @Override
   protected void onCreate(final Bundle savedInstanceState) {
@@ -106,6 +111,20 @@ public abstract class CameraActivity extends AppCompatActivity
     getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 
     setContentView(R.layout.tfe_ic_activity_camera);
+    button1 = (Button)findViewById(R.id.button);
+
+    button1.setOnClickListener(new View.OnClickListener() {
+
+      @Override
+      public void onClick(View v) {
+        // TODO Auto-generated method stub
+        String url = "https://www.google.com/maps/search/?api=1&query=dermetologist+near+me";
+
+        Intent i = new Intent(Intent.ACTION_VIEW);
+        i.setData(Uri.parse(url));
+        startActivity(i);
+      }
+    });
 
     if (hasPermission()) {
       setFragment();
