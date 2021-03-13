@@ -16,7 +16,10 @@ Our Approach :-
               5. We exported the trained model in tflite format to deploy in android app.
 
     Android app:
-              1. 
+              1. We used example provided by Google of TFLite image_classifier model.
+              2. We replaced the orignal model files with our own model files.
+              3. We added a button to redirect user to map showing nearest available dermatologist.
+              4. We changed some UI features, added app icon and changed the name of the app to make our final app.
     
 
 1 What is the definition that you are working on 
