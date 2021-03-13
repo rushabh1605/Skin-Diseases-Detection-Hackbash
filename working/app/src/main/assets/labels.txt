@@ -1,11 +1,11 @@
-akiec
-bcc
-bkl
-df
+Bowen's disease (akeic)
+basal cell carcinoma (bcc)
+benign keratosis-like lesions (bkl)
+dermatofibroma (df)
 healthy
 lupus
-mel
-nv
+melanocytic nevi (nv)
+melanoma (mel)
 ringworm
 scalp_infections
-vasc
+vascular lesions (vasc)
