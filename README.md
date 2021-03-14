@@ -65,24 +65,24 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 
 - Rushabh Thakkar
 
-[linkedin](https://www.linkedin.com/in/rushabhthakkar/)
-[github](https://github.com/rushabh1605)
+[Linkedin](https://www.linkedin.com/in/rushabhthakkar/)
+[Github](https://github.com/rushabh1605)
 [Resume](https://drive.google.com/file/d/1MrEST2m7OiMRPsB-F7QaoezXCIzPOo8W/view?usp=sharing)
 
 - Divy Patel
 
-[linkedin](www.linkedin.com/in/divy-patel-7b369118b)
-[github](https://github.com/Divy2000)
+[Linkedin](www.linkedin.com/in/divy-patel-7b369118b)
+[Github](https://github.com/Divy2000)
 [Resume](https://drive.google.com/file/d/15co1lwJ51Ld9ydJyfPFAF2lXNLlU-3ZA/view?usp=sharing)
 
 - Denish Kalariya
 
-[linkedin](https://www.linkedin.com/in/denish-kalariya-b22a641ba/)
-[github](https://github.com/Dk-21)
+[Linkedin](https://www.linkedin.com/in/denish-kalariya-b22a641ba/)
+[Github](https://github.com/Dk-21)
 [Resume](https://drive.google.com/file/d/1gPyanEH-bpqPr0HxINCMX1v-Ufz2Jbm2/view?usp=sharing)
 
 - Yug Thakkar
 
-[linkedin](https://www.linkedin.com/in/yug-thakkar-6a0021179/)
-[github](https://github.com/yugthakkar16)
+[Linkedin](https://www.linkedin.com/in/yug-thakkar-6a0021179/)
+[Github](https://github.com/yugthakkar16)
 
