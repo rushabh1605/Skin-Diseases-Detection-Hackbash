@@ -15,7 +15,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 > **Our Approach :**
 
     ML model:
-              1. We got these dataset: shorturl.at/bAMZ5.
+              1. We got these dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T.
               2. We segregated the datasets of harvard. Combined all the datasets and trained the TFlite image classification model multiple times.
               3. We augmented dataset in two ways-
                     a. We used random flipping and rotation as two data augmentation techniques.
