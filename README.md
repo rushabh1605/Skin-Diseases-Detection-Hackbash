@@ -51,7 +51,7 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
 
 > **Video:** 
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
-[youtube]:https://youtu.be/bV5bhKFsdYY
+[youtube]: https://youtu.be/bV5bhKFsdYY
 
 > **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
