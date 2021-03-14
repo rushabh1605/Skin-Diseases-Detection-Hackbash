@@ -16,7 +16,7 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
 
    **ML model:**
               1. We got these dataset: shorturl.at/bAMZ5.
-              2.  We segregated the datasets of harvard. Combined all the datasets and trained the TFlite image classification model multiple times.
+              2. We segregated the datasets of harvard. Combined all the datasets and trained the TFlite image classification model multiple times.
               3. We augmented dataset in two ways-
                     a. We used random flipping and rotation as two data augmentation techniques.
                     b. While in other method we added random noise in addition to the above techniques for data augmentation.
