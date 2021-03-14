@@ -24,7 +24,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
               3. We tested each of the augmented data with two parameter inputs for TFlite image_classifier model-
                     a. Dropout rate 0.5, Epochs = 05, model_spec= efficientnet_lite0
                     b. Dropout rate 0.5, Epochs = 10, model_spec= efficientnet_lite0
-              4. We got best result with combination of dataset **b.** and model parameter **b.** way(10 Epochs).
+              4. We got best result with combination of dataset "b." and model parameter "b." way(10 Epochs).
               5. We exported the trained model in tflite format to deploy in android app.
 
      Android app:
