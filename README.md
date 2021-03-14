@@ -15,15 +15,16 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 > **Our Approach :**
 
     ML model:
-              1. We got these dataset: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T.
-              2. We segregated the datasets of harvard. Combined all the datasets and trained the TFlite image classification model multiple times.
-              3. We augmented dataset in two ways-
-                    a. We used random flipping and rotation as two data augmentation techniques.
+              1. Dataset link : https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T.
+              2. We segregated the datasets of harvard in different folders according to the classes. 
+              3. Combined all the datasets and trained the TFlite image classification model multiple times.
+              4. We augmented dataset in two ways-
+                    a. Used random flipping and rotation as two data augmentation techniques.
                     b. While in other method we added random noise in addition to the above techniques for data augmentation.
-              3. We tested each of the augmented data in two ways-
+              3. We tested each of the augmented data with two parameter inputs for TFlite image_classifier model-
                     a. Dropout rate 0.5, Epochs = 05, model_spec= efficientnet_lite0
                     b. Dropout rate 0.5, Epochs = 10, model_spec= efficientnet_lite0
-              4. We got best result with 2nd dataset by using 2nd way(10 Epochs).
+              4. We got best result with combination of dataset **b.** and model parameter **b.** way(10 Epochs).
               5. We exported the trained model in tflite format to deploy in android app.
 
      Android app:
@@ -35,8 +36,8 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
   
 > **Codes:**   
     
-- image_segrigation.py - used to segrigate images into various categories from HAM-10000 dataset
-- data_aug_rem.py - scans the folders and do random data removal or data-augmentation(as per arguments in code) to get requiered number of samples per class, avoiding any class bias.
+- image_segrigation.py    - used to segrigate images into various categories from HAM-10000 dataset
+- data_aug_rem.py         - scans the folders and do random data removal or data-augmentation(as per arguments in code) to get requiered number of samples per class, avoiding                             any class bias.
 - image_classification.py - calls TFlite image_classifier model and trains it with given dataset according to the arrguments. It also gives output of trained model as TFlite and labels files, which are used to deploy the model on the android app.
 
 
