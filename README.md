@@ -3,6 +3,7 @@
 We are team technophiles and participated in 24hrs hackathon organized by DSC. Our Problem Definition : An Application Programming Interface which can be easily integrated with Android to detect the skin disease without any physical interaction with a Dermatologist. 
 
 Our college name: Pandit Deendayal Energy University(PDEU)
+
 Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 
 
@@ -53,13 +54,13 @@ image_classification.py - calls TFlite image_classifier model and trains it with
 **Link of Video:** 
 
 
-**APK file:** https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing
+**APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
 
 **Profiles of team member:**
 
 Rushabh Thakkar
-[linkedin] : https://www.linkedin.com/in/rushabhthakkar/
+[linkedin](https://www.linkedin.com/in/rushabhthakkar/)
 [github] :
 
 1. What is the definition that you are working on 
