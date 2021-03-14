@@ -14,7 +14,7 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
 
 **Our Approach :**
 
-   **ML model:**
+    **ML model:**
               1. We got these dataset: shorturl.at/bAMZ5.
               2. We segregated the datasets of harvard. Combined all the datasets and trained the TFlite image classification model multiple times.
               3. We augmented dataset in two ways-
@@ -26,7 +26,7 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
               4. We got best result with 2nd dataset by using 2nd way(10 Epochs).
               5. We exported the trained model in tflite format to deploy in android app.
 
-   **Android app:**
+     **Android app:**
               1. We used example provided by Google of TFLite image_classifier model.
               2. We replaced the orignal model files with our own model files.
               3. We added a button to redirect user to map showing nearest available dermatologist.
