@@ -21,6 +21,7 @@ Our Approach :-
               3. We added a button to redirect user to map showing nearest available dermatologist.
               4. We changed some UI features, added app icon and changed the name of the app to make our final app.
     
+    
 image_segrigation.py - used to segrigate images into various categories from HAM-10000 dataset
 
 data_aug_rem.py - scans the folders and do random data removal or data-augmentation(as per arguments in code) to get requiered number of samples per class, avoiding any class bias.
@@ -29,9 +30,13 @@ image_classification.py - calls TFlite image_classifier model and trains it with
 
 
 *Tech Stack Used :-*
+
 TensorFlow Lite
+
 Android Studio (java)
+
 Google maps(URL based) API
+
 
 1. What is the definition that you are working on 
 
