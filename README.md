@@ -49,19 +49,12 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
     Google maps(URL based) API
 
 
-> **Video:** 
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube]
-[youtube]: https://youtu.be/bV5bhKFsdYY
+> **Video:** [Video](https://youtu.be/bV5bhKFsdYY)
 
 > **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
 
 > **Profiles of team member:** 
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
-[<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />][Github]
-<br />
-<hr />
-
 
 - Rushabh Thakkar
 
