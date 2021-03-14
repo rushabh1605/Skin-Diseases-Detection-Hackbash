@@ -60,15 +60,25 @@ image_classification.py - calls TFlite image_classifier model and trains it with
 **Profiles of team member:**
 
 Rushabh Thakkar
+
 [linkedin](https://www.linkedin.com/in/rushabhthakkar/)
-[github] :
+[github](https://github.com/rushabh1605)
+[resume](https://drive.google.com/file/d/1MrEST2m7OiMRPsB-F7QaoezXCIzPOo8W/view?usp=sharing)
 
-1. What is the definition that you are working on 
+Divy Patel
 
-2. How are you trying to solve the problem like what is your approach 
+[linkedin](www.linkedin.com/in/divy-patel-7b369118b)
+[github](https://github.com/Divy2000)
+[resume](https://drive.google.com/file/d/15co1lwJ51Ld9ydJyfPFAF2lXNLlU-3ZA/view?usp=sharing)
 
-3. The Tech stack used like Django,React,etc
+Denish Kalariya
 
-4. Video of the project and if it is ready completely you can deploy it that can help the judges to evaluate. It can also create a good impression
+[linkedin](https://www.linkedin.com/in/denish-kalariya-b22a641ba/)
+[github](https://github.com/Dk-21)
+[resume](https://drive.google.com/file/d/1gPyanEH-bpqPr0HxINCMX1v-Ufz2Jbm2/view?usp=sharing)
 
-5. Resume, LinkedIn and GitHub profile url of all the team members 
+Yug Thakkar
+
+[linkedin](https://www.linkedin.com/in/yug-thakkar-6a0021179/)
+[github](https://github.com/yugthakkar16)
+
