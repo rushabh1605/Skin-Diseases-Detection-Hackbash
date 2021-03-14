@@ -27,6 +27,12 @@ data_aug_rem.py - scans the folders and do random data removal or data-augmentat
 
 image_classification.py - calls TFlite image_classifier model and trains it with given dataset according to the arrguments. It also gives output of trained model as TFlite and labels files, which are used to deploy the model on the android app.
 
+
+*Tech Stack Used :-*
+TensorFlow Lite
+Android Studio (java)
+Google maps(URL based) API
+
 1. What is the definition that you are working on 
 
 2. How are you trying to solve the problem like what is your approach 
