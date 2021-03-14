@@ -49,7 +49,7 @@ Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
     Google maps(URL based) API
 
 
-> **Video:** [Video](https://youtu.be/bV5bhKFsdYY)
+> **Video:** [Link to Video](https://youtu.be/bV5bhKFsdYY)
 
 > **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
