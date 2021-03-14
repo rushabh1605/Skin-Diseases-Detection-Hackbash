@@ -35,11 +35,9 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
   
 > **Codes:**   
     
-image_segrigation.py - used to segrigate images into various categories from HAM-10000 dataset
-
-data_aug_rem.py - scans the folders and do random data removal or data-augmentation(as per arguments in code) to get requiered number of samples per class, avoiding any class bias.
-
-image_classification.py - calls TFlite image_classifier model and trains it with given dataset according to the arrguments. It also gives output of trained model as TFlite and labels files, which are used to deploy the model on the android app.
+- image_segrigation.py - used to segrigate images into various categories from HAM-10000 dataset
+- data_aug_rem.py - scans the folders and do random data removal or data-augmentation(as per arguments in code) to get requiered number of samples per class, avoiding any class bias.
+- image_classification.py - calls TFlite image_classifier model and trains it with given dataset according to the arrguments. It also gives output of trained model as TFlite and labels files, which are used to deploy the model on the android app.
 
 
 > **Tech Stack Used :-**
@@ -51,7 +49,7 @@ image_classification.py - calls TFlite image_classifier model and trains it with
     Google maps(URL based) API
 
 
-> **Link of Video:** 
+> **Video:** [Link to Video](https://youtu.be/bV5bhKFsdYY)
 
 
 > **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
