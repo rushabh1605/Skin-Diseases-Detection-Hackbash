@@ -7,12 +7,12 @@ Our college name: Pandit Deendayal Energy University(PDEU)
 Team Members: Rushabh Thakkar, Divy Patel, Denish Kalariya, and Yug Thakkar.
 
 
-**Problem Definition :**
+> **Problem Definition :**
 
 Dermatological Issues/disorders are most commonly spread worldwide. This can be caused by various fungal, bacterial, or skin allergies. Effective use of Emerging technologies like AI/ML can recognize such diseases. Computer Vision is one such platform that made the possibility of detecting the cause accurately through Images.The problem here is to develop an Application Programming Interface which can be easily integrated with Android app to detect the skin disease without any physical interaction with a Dermatologist.
 
 
-**Our Approach :**
+> **Our Approach :**
 
     ML model:
               1. We got these dataset: shorturl.at/bAMZ5.
@@ -33,7 +33,7 @@ Dermatological Issues/disorders are most commonly spread worldwide. This can be 
               4. We changed some UI features, added app icon and changed the name of the app to make our final app.
   
   
-**Codes:**   
+> **Codes:**   
     
 image_segrigation.py - used to segrigate images into various categories from HAM-10000 dataset
 
@@ -42,7 +42,7 @@ data_aug_rem.py - scans the folders and do random data removal or data-augmentat
 image_classification.py - calls TFlite image_classifier model and trains it with given dataset according to the arrguments. It also gives output of trained model as TFlite and labels files, which are used to deploy the model on the android app.
 
 
-**Tech Stack Used :-**
+> **Tech Stack Used :-**
 
     TensorFlow Lite
 
@@ -51,33 +51,33 @@ image_classification.py - calls TFlite image_classifier model and trains it with
     Google maps(URL based) API
 
 
-**Link of Video:** 
+> **Link of Video:** 
 
 
-**APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
+> **APK file:** [Link to APK File](https://drive.google.com/file/d/10DnwVU_na934VCRcrFEpBOYV6pfqOaVp/view?usp=sharing)
 
 
-**Profiles of team member:**
+> **Profiles of team member:**
 
-Rushabh Thakkar
+- Rushabh Thakkar
 
 [linkedin](https://www.linkedin.com/in/rushabhthakkar/)
 [github](https://github.com/rushabh1605)
 [resume](https://drive.google.com/file/d/1MrEST2m7OiMRPsB-F7QaoezXCIzPOo8W/view?usp=sharing)
 
-Divy Patel
+- Divy Patel
 
 [linkedin](www.linkedin.com/in/divy-patel-7b369118b)
 [github](https://github.com/Divy2000)
 [resume](https://drive.google.com/file/d/15co1lwJ51Ld9ydJyfPFAF2lXNLlU-3ZA/view?usp=sharing)
 
-Denish Kalariya
+- Denish Kalariya
 
 [linkedin](https://www.linkedin.com/in/denish-kalariya-b22a641ba/)
 [github](https://github.com/Dk-21)
 [resume](https://drive.google.com/file/d/1gPyanEH-bpqPr0HxINCMX1v-Ufz2Jbm2/view?usp=sharing)
 
-Yug Thakkar
+- Yug Thakkar
 
 [linkedin](https://www.linkedin.com/in/yug-thakkar-6a0021179/)
 [github](https://github.com/yugthakkar16)
