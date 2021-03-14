@@ -22,8 +22,12 @@ Our Approach :-
               4. We changed some UI features, added app icon and changed the name of the app to make our final app.
     
 
-1 What is the definition that you are working on 
-2 How are you trying to solve the problem like what is your approach 
-3 The Tech stack used like Django,React,etc
-4 Video of the project and if it is ready completely you can deploy it that can help the judges to evaluate. It can also create a good impression
-5 Resume, LinkedIn and GitHub profile url of all the team members 
+1. What is the definition that you are working on 
+
+2. How are you trying to solve the problem like what is your approach 
+
+3. The Tech stack used like Django,React,etc
+
+4. Video of the project and if it is ready completely you can deploy it that can help the judges to evaluate. It can also create a good impression
+
+5. Resume, LinkedIn and GitHub profile url of all the team members 
